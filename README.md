@@ -27,6 +27,7 @@ Ai 서버의 랭 그래프 설계 및 구현을 지원했습니다.
 여기서 AI의 응답이 오래 걸리기 때문에 서버와 Http의 요청 제한시간 문제를 해결하기 위해 Kafka를 사용하게 되었습니다.
 
 
+https://drive.google.com/drive/folders/1p1rwEXX6Yea1tLevSSBZg2Fu27IH6kzk
 
 
 
